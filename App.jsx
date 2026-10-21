@@ -5,7 +5,7 @@ import {
   Search, ShieldCheck, Sparkles, TriangleAlert, XCircle
 } from "lucide-react";
 
-const API_URL = "http://127.0.0.1:8000/api/analyze";
+const API_URL = "https://verityai-backend-kmzb.onrender.com/api/analyze";
 
 const demoText = "The human heart has four chambers. Water boils at 100 degrees Celsius at standard atmospheric pressure. The Great Wall of China is visible from the Moon with the naked eye.";
 
